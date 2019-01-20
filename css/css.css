@@ -1,0 +1,153 @@
+body{
+    font-family: 'Poller One', cursive;
+    background-image: url("../img/sky.jpg");
+    color: rgba(255, 184, 14, 0.5);
+    background-attachment: fixed;
+    font-family: 'Poller One', cursive;
+}
+header{
+    background-color: rgba(60,69,67,0.6);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: 25px;
+}
+nav{
+    position:fixed;
+    top: 0;
+    width: 35em;
+    left: 35%;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+
+}
+li{
+    display: inline;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgba(204,4,35,0.6);
+
+}
+h2{
+    text-align: center;
+    letter-spacing: 0.2em;
+    padding: 1.5em 0;
+}
+
+img{
+    box-shadow: rgba(41, 41, 39, 0.4) 10px 10px;
+}
+
+
+#left{
+    float: left;
+    margin-right:10px;
+    margin-left: 20px;
+}
+#right{
+    float: right;
+}
+
+td img{
+    height: 220px;
+    width: 260px;
+    box-shadow: none;
+    margin: 10px;
+}
+table{
+
+}
+#farGalaxy{
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    line-height: 1.5em;
+}
+footer{
+    background-color: rgba(60,69,67,0.6);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    clear:both;
+    height: 4.5em;
+    position: relative;
+
+}
+#button{
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgba(204, 3, 35,0.6);
+    height: 2em;
+    width: 10em;
+position: absolute;
+    left: 10%;
+    top: 25%;
+
+
+}
+
+
+
+#button p{
+    font-size: 0.8em;
+    text-align: center;
+   margin-top: 5%;
+}
+.bold{
+    font-size: 1.2em;
+     color: black;
+    font-variant: small-caps;
+}
+#txt1{
+  text-align: center;
+}
+#left1{
+    border-top-left-radius: 10px;
+}
+#left2{
+    border-bottom-left-radius: 10px;
+}
+#right1{
+    border-top-right-radius:10px ;
+}
+
+#right2{
+    border-bottom-right-radius: 10px;
+}
+#dr{
+    background-color: rgba(60,69,67,0.6);
+border-radius: 5px;
+}
+.tq{
+
+    float:left;
+    border-radius: 20px;
+}
+
+.tq1{
+    float: right;
+}
+.h22{
+    background-color: rgba(60,69,67,0.6);
+    border-radius: 5px;
+}
+.submit{
+
+    border-radius: 10px;
+    background-color: rgba(204, 3, 35,0.6);
+    width: 6em;
+    height: 2em;
+}
+#Yoda{
+    width: 15em;
+    height: 15em;
+    margin-right: 3em;
+}
+.form{
+    position: relative;
+
+   text-align: center;
+    background-color: rgba(60, 69, 67, 0.25);
+    margin: 5em;
+
+}
