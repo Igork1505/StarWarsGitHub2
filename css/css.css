@@ -151,3 +151,18 @@ border-radius: 5px;
     margin: 5em;
 
 }
+.navimg{
+
+    float: right;
+    width: 900px ;
+
+    box-shadow: none;
+
+}
+.jediiimg{
+    float: left;
+    width: 700px;
+    box-shadow: none;
+}
+
+
